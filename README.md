@@ -16,3 +16,6 @@ git commit -m "Initial commit of portfolio website"
 # Push to GitHub
 git branch -M main
 git push -u origin main
+cd path/to/your-portfolio-folder
+https://sobhi777.github.io/Portfolio/
+
